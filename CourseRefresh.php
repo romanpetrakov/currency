@@ -45,3 +45,5 @@ class CourseRefresh {
 
     }
 }
+
+CourseRefresh::do();
